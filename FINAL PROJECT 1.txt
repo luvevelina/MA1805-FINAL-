@@ -1,0 +1,44 @@
+
+PROJECT TITLE:
+"One Path"
+
+GITHUB:
+https://github.com/luvevelina/MA1805-FINAL-.git 
+
+DESCRIPTION OF GAME:
+this game is based on an Agatha Christie quote. the game works as an ordinary maze but you cant go back (left button). 
+the player in the game resembles you, how you go through life. the conception stage is the easiest as theres only one path. 
+the birth level teaches you theres more than 1 path. in the life level, you get to 
+explore and create your own path. i added multiple exits for this level to show that there is no
+"right path". signifying that life has no true end goal, but you as a person choose your own goal.
+in the death stage your character follows an ecg line. one path. one ending. showing that the end result
+is always the same.
+at the end your control gets revoked. the player moves by itself and wont stop nor listen to your controls.
+the end signifys reflection of your journey.
+the game ends when your player goes off the screen not to be seen again.
+
+TECHNICAL APPROACH:
+i used rectangles and lines to create the mazes
+i focused most of my coding on how the player can react with the game
+i struggled with implementing some of my main ideas:
+- adding a gradient in DEATH where as the player moves along the x axis the screen becomes white
+signifying death
+- i wanted to add a timer that players could reflect on at the ending
+- i was unable to add barriers to the walls for level 4 as it was near impossible to complete the level with it
+
+
+if i were to develop my game further id:
+- add imagery to the background and certain sounds that resinate with the level
+- introduce different stages within life
+
+SOURCES OF INSPIRATION
+my main source of inspiration came from the agatha christie quote "I learned...  that one can never go back,
+ that one should not ever try to go back — that the essence of life is going forward. 
+ Life is really a one way street, isn't it?” 
+
+
+ROLES:
+This whole project was done individually
+
+
+#
